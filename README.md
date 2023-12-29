@@ -1,3 +1,3 @@
 # AlarmClock
-Alarm clock  Powered By Python
+Alarm clock (24 Hrs format)  Powered By Python
 using tkinter
